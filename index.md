@@ -6,6 +6,6 @@ That's sick.
 
 ---
 
-Now I just have to learn more about Jekyll.
+Next step... figure out Jekyll.
 
 
