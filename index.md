@@ -6,6 +6,6 @@ That's sick.
 
 ---
 
-Next step... figure out Jekyll.
+Next step... The Great Merge.
 
 
