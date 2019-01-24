@@ -24,10 +24,10 @@ Important Information
 
 ---
 
-Workplace:    &nbsp;&nbsp;&nbsp;                                                        QIMR Berghofer Medical Research Institute  
-Position:     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                PhD Student - Psychiatric Genetics  
-Lab:          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sarah Medland  
-Address:      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                300 Herston Road, Herston QLD 4008  
+Workplace:    &nbsp;&nbsp;&nbsp;                                                              QIMR Berghofer Medical Research Institute  
+Position:     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                      PhD Student - Psychiatric Genetics  
+Lab:          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sarah Medland  
+Address:      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                      300 Herston Road, Herston QLD 4008  
 
 ---
 
