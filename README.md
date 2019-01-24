@@ -35,6 +35,6 @@ Website:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   https://geoffreyenglish.wordpress.com/
 
 ---
 
-> "Don't wish it was easier; wish you were better" 
-> - *Jim Rohn*
+> "Don't wish it was easier; wish you were better"  
+- *Jim Rohn*
 
