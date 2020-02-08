@@ -50,6 +50,5 @@ Website:      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              https://geoffreyenglis
 ---
 
 > "Don't wish it was easier; wish you were better" 
-
 > - *Jim Rohn*
 
