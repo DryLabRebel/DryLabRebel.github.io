@@ -13,6 +13,6 @@ possible.
 
 ---
 
-In the meantime here's my contact information, if for some strange reason you might like to get in touch with me.
+In the meantime here's my [contact](/NameAndContactDetails.Rmd) information, if for some strange reason you might like to get in touch with me.
 
 --- 
