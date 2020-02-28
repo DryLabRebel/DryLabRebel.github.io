@@ -1,5 +1,7 @@
-Dry Lab Rebel
-=============
+---
+title: Geoffrey English
+subtitle: Demystifying Quatitiative Genetics (Or, pretty much whatever I feel like)
+---
 
 Welcome to my GitHub hosted static Website.
 
@@ -13,6 +15,6 @@ possible.
 
 ---
 
-In the meantime here's my [contact](/NameAndContactDetails.Rmd) information, if for some strange reason you might like to get in touch with me.
+In the meantime here's my [contact](https://github.com/DryLabRebel/DryLabRebel.github.io/blob/master/contact.md) information, if for some strange reason you might like to get in touch with me.
 
 --- 
