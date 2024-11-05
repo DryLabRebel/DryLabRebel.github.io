@@ -15,6 +15,6 @@ possible.
 
 ---
 
-In the meantime here's my [contact](https://drylabrebel.github.io/contact.md) information, if for some strange reason you might like to get in touch with me.
+In the meantime here's my [contact](https://drylabrebel.github.io/blog/contact.md) information, if for some strange reason you might like to get in touch with me.
 
 --- 
