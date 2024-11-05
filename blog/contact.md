@@ -1,7 +1,7 @@
 Personal Profile
 ================
 
-Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Geoff English, PhD  
+Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Geoff English, PhD  
 Position:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Data Monkey  
 Workplace:&nbsp;&nbsp;                          APS  
 
